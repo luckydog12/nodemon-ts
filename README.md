@@ -12,7 +12,7 @@ If you are writing a Typescript file named `hello.ts` like that:
 }
 ```
 
- then you can do that in teminal:
+then you can do that in teminal:
 
 - `nodemon-ts hello.ts`
 
@@ -39,4 +39,6 @@ I edit the hello.ts file again
 
 In addition to, you can customize the es version, like `es2015`, `esnext` and so on
 
-- `nodemon-ts hello.ts -s ex2015`
+- `nodemon-ts hello.ts -s es2015`
+
+[github地址](https://github.com/luckydog12/nodemon-ts)
